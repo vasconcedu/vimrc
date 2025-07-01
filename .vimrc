@@ -14,7 +14,7 @@ filetype on
 filetype plugin on 
 " This is the ultimate pain in the a**: banning this config line
 "   from my Vim user life and keeping this comment as a reminder 
-"   that I never want to have this nuisance in my life again
+"   that I never want to see this nuisance again
 "filetype indent on " Load indent file
 
 syntax on 
